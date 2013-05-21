@@ -1,10 +1,4 @@
-/*!
- * meny 1.2
- * http://lab.hakim.se/meny
- * MIT licensed
- *
- * Created by Hakim El Hattab (http://hakim.se, @hakimel)
- */
+
 var Meny = {
 	// Creates a new instance of Meny
 	create: function( options ) {
